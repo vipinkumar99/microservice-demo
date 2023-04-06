@@ -1,5 +1,5 @@
-applicationConfiguration
+applicationConfiguration:
   host: http://localhost
-  port : 8082
-  username : orderQa
-  password : orderQa 
+  port: 8082
+  username: orderQa
+  password: orderQa
