@@ -1,5 +1,0 @@
-applicationConfiguration
-  host: http://localhost
-  port : 8082
-  username : orderDev
-  password : orderDev 
