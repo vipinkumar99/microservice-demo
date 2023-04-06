@@ -1,9 +1,5 @@
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/vipinkumar99/microservice-demo
-          search-paths:
-          -  payment-service
-        default-label: master 
+applicationConfiguration
+  host: http://localhost
+  port : 8082
+  username : orderDev
+  password : orderDev 
